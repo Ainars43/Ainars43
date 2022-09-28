@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ainars43
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Ainars43a@gmail.com
+- I'm currently working at Codelex
+- I use daily C# 
+- Learning about HTTP & Web API
+- Reach me: 
+
 
 <!---
 Ainars43/Ainars43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
