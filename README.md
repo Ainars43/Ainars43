@@ -1,7 +1,7 @@
 - I'm currently working at Codelex
 - I use daily C# 
 - Learning about HTTP & Web API
-- Reach me: 
+- Reach me: vingris@gmail.com and https://www.linkedin.com/in/ainarsvingris/
 
 
 <!---
