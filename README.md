@@ -1,4 +1,4 @@
-### Hello🙂👋 
+### Hello👋 
 
 - I'm currently working at Codelex
 - I use daily C# 
