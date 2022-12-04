@@ -1,7 +1,7 @@
 ### Hello👋 
 
 - I'm currently working at Codelex
-- I use daily C# 
+- I use daily C# & ReactJS
 - Learning about HTTP & Web API
 - Reach me: vingris@gmail.com and https://www.linkedin.com/in/ainarsvingris/
 
