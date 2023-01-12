@@ -1,8 +1,8 @@
 ### Hello👋 
 
-- I'm currently working at Codelex
-- I use daily C# & ReactJS
-- Learning about HTTP & Web API
+- I'm currently working at SkyBill
+- I use daily AL
+- Learning about Microsoft Dynamics 365 Business Central
 - Reach me: vingris@gmail.com and https://www.linkedin.com/in/ainarsvingris/
 
 
